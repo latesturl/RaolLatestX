@@ -6,11 +6,11 @@ global.calender = d.toLocaleDateString('id');
 //================= { SETTINGS } =================\\
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
 global.owner = '';
-global.email = 'latesturltech@gmail.com';
+global.email = 'admin@gmail.com';
 global.ownNumb = '';
 global.NamaOwner = '';
 global.sessionName = 'session';
-global.namabot = 'RaolLatestX';
+global.namabot = 'Xbotz';
 global.author = '';
 global.packname = '';
 global.yt = '';
